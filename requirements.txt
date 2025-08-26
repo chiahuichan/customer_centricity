@@ -1,6 +1,5 @@
 pysqlite3
 chromadb
-tempfile
 pdfplumber
 sentence_transformers
 langchain_community
