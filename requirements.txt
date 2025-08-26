@@ -3,3 +3,4 @@ chromadb
 pdfplumber
 sentence_transformers
 langchain_community
+openai
