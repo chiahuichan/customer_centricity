@@ -1,1 +1,6 @@
+sqlite3 >= 3.35.0
 chromadb
+tempfile
+pdfplumber
+sentence_transformers
+langchain_community
