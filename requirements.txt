@@ -1,4 +1,3 @@
-pysqlite3
 chromadb
 pdfplumber
 sentence_transformers
